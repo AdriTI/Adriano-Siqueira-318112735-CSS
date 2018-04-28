@@ -1,0 +1,77 @@
+img {
+  border-radius: 30px;
+}
+
+.navbar {
+  height: 100px;
+  text-decoration: none;
+  list-style-type: none;
+  list-style: none;
+  color: black;
+}
+
+.logo {
+  height: 110px;
+  padding: 10px;
+  background-color: #008B8B;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  font-family: arial, sans-serif;
+}
+
+a:hover {
+  color: #00FF00;
+  text-decoration: underline;
+}
+
+#cabecalho {
+  height: 100px;
+  padding: 10px;
+  background-color: #B8860B;
+  text-align: center;
+}
+
+header {
+  height: 100px;
+  padding: 20px;
+  background-color: #DAA520;
+}
+
+#nav {
+  height: 90px;
+  padding: 10px;
+  background-color: #000000;
+  text-align: center;
+}
+
+aside {
+  padding: 2%;
+  height: 300px;
+  width: 30%;
+  background-color: #800080;
+  float: left;
+}
+
+main{
+  height: 300px;
+  width: 70%;
+  padding: 2%;
+  background-color: #9400D3;
+  float: right;
+}
+
+footer {
+  height: 80px;
+  padding: 10px;
+  background-color: #C71585;
+  clear: both;
+}
+
+span {
+  color: #F2F2F2;
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+}

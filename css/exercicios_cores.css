@@ -1,0 +1,63 @@
+ table{
+  color: white;
+  width: 70%;
+  height: 30%;
+  margin-bottom : .5em;
+  table-layout: fixed;
+  text-align: center;
+
+ }
+ #cor_a{
+  background-color: #5A5537;
+ }
+ #cor_g{
+  background-color: #FF2600;
+ }
+ #cor_m{
+  background-color: #11314F;
+ }
+ #cor_b{
+    background-color: #A59A67;
+ }
+ #cor_h{
+    background-color: #B5B5B5;
+ }
+ #cor_n{
+    background-color: #921101;
+ }
+ #cor_c{
+    background-color: #607334;
+ }
+ #cor_i{
+    background-color: #505050;
+ }
+ #cor_o{
+    background-color: #FF7202;
+ }
+ #cor_d{
+    background-color: #5B125A;
+ }
+ #cor_j{
+    background-color: #0D0D0D;
+ }
+ #cor_p{
+    background-color: #FFB5D0;
+ }
+ #cor_e{
+    background-color: #4181FF;
+ }
+ #cor_k{
+    background-color: #C3D7E9;
+ }
+ #cor_q{
+    background-color: #FFFC00;
+ }
+ #cor_f{
+    background-color: #FF497C;
+ }
+ #cor_l{
+    background-color: #6461DD;
+ }
+ #cor_r{
+    background-color: #008D00;
+ }
